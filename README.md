@@ -26,7 +26,7 @@ I started coding at age 11, with automation scripts for MS Excel, VBS & Batch fi
 
 I have a DIY/handcrafted/old-tech/low-tech approach of development & tech in general. Over the years, I have created a lot of softwares & web apps (ranging from the almost useful to the amusing), such as a Python keyboard-to-series-port Morse converter, a PHP rotoscopic video processor, a WASM/OpenCV video to audio synth, or a Python markov-chain-based image generator. I've also spent a lot of time coding [PureData](https://puredata.info/) patches. Unfortunately, many of these projects are old and now only live on some backup disk somewhere in the attic. Luckily at some point I started to use Git in my coding projects!  
 
-These projects are mostly side-projects and mainly have 2 focus: arts in general, and often music/sound processing in particular (I've studied musicology for 5 years), and library science (before being Lead Dev, I've been working for two years at [OpenEdition](https://www.openedition.org) as Metadata Officer and then Fullstack dev). Here are a few things you can find in my public repos:
+These projects mainly have 2 focus: arts in general, and often music/sound processing in particular (I've studied musicology for 5 years), and library science (before being Lead Dev, I've been working for two years at [OpenEdition](https://www.openedition.org) as Metadata Officer and then Fullstack dev). Here are a few things you can find in my public repos:
 
 * Books & Library Science:
     * [JsMARC](https://github.com/corbin-c/jsmarc): browser/npm module/node cli tool to read/filter/parse [MARC](https://www.loc.gov/marc/bibliographic/) files, used by libraries to describe books
