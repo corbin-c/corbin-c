@@ -26,13 +26,13 @@ I started coding at age 11, with automation scripts for MS Excel, VBS & Batch fi
 
 I have a DIY/handcrafted/old-tech/low-tech approach of development & tech in general. Over the years, I have created a lot of softwares & web apps (ranging from the almost useful to the amusing), such as a Python keyboard-to-series-port Morse converter, a PHP rotoscopic video processor, a WASM/OpenCV video to audio synth, or a Python markov-chain-based image generator. I've also spent a lot of time coding [PureData](https://puredata.info/) patches. Unfortunately, many of these projects are old and now only live on some backup disk somewhere in the attic. Luckily at some point I started to use Git in my coding projects!  
 
-These projects are mostly side-projects and mainly have 2 focus: arts in general (and often music/sound processing in particular), and library science. Here are a few things you can find in my public repos:
+These projects are mostly side-projects and mainly have 2 focus: arts in general, and often music/sound processing in particular (I've studied musicology for 5 years), and library science (before being Lead Dev, I've been working for two years at [OpenEdition](https://www.openedition.org) as Metadata Officer and then Fullstack dev). Here are a few things you can find in my public repos:
 
 * Books & Library Science:
     * [JsMARC](https://github.com/corbin-c/jsmarc): browser/npm module/node cli tool to read/filter/parse [MARC](https://www.loc.gov/marc/bibliographic/) files, used by libraries to describe books
     * [WebZ3950](https://github.com/corbin-c/web-z3950): binding to access [Z39.50 protocol](https://www.niso.org/publications/ansiniso-z3950-2003-s2014) over HTTP. Z39.50 is an old protocol used by libraries to share & query their catalogues
     * [BACON Utility](https://github.com/corbin-c/bacon-helper): a simple web interface to query the French Knowledge Base known as [BACON](https://bacon.abes.fr/) and retrieve [KBART data](https://www.niso.org/standards-committees/kbart)
-    * [Biblio Jeunesse](https://github.com/corbin-c/biblio-jeunesse): a catalogue of literature for the youth. This static website was built using an ODT file containing a list of books, which was parsed and enriched using a series of NodeJS scripts.
+    * [Biblio Jeunesse](https://github.com/corbin-c/biblio-jeunesse): a catalogue of literature for the youth. This static website was built using an ODT file containing a list of books, which was parsed and enriched using a series of NodeJS scripts to query APIs & SPARQL endpoints
     * [Wiki-tree](https://github.com/corbin-c/wiki-tree): web interface to graphically browse Wikipedia, exploring relations between articles and their taxonomy 
 * Arts & music:
     * [Pixel-SVG](https://github.com/corbin-c/pixel-svg): simple tool to perform vectorization over raster images in order to pixelate them.
