@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Clément
 
-I'm a self-taught web developer. I'm currently employed as Lead Dev in a web agency near Poitiers, France, but I'm also open to some freelance work. Feel free to contact me. Apart from programming languages, I'm fluent in French, Spanish & English (and still learning Portuguese).
+I'm a self-taught web developer. After about 2 years as a Lead Dev in a web agency near Poitiers, France, I'm now working as a freelancer. Feel free to contact me. Apart from programming languages, I'm fluent in French, Spanish & English (and still learning Portuguese).
 
 [![@clem_corbin](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://www.twitter.com/clem_corbin)
 [![clement-corbin](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/clement-corbin/)
@@ -22,7 +22,7 @@ I'm a self-taught web developer. I'm currently employed as Lead Dev in a web age
 
 #### My journey 🧭
 
-I started coding at age 11, with automation scripts for MS Excel, VBS & Batch files, at 13 I began to learn HTML, CSS & PHP, and at 15 I began to learn Python and to use Linux and FLOSS on a daily basis.
+I started coding at age 11, with automation scripts for MS Excel, VBS & Batch files, at 13 I began to learn HTML, CSS & PHP, and at 15 I began to learn Python and to use Linux and FOSS on a daily basis.
 
 I have a DIY/handcrafted/old-tech/low-tech approach of development & tech in general. Over the years, I have created a lot of softwares & web apps (ranging from the almost useful to the amusing), such as a Python keyboard-to-series-port Morse converter, a PHP rotoscopic video processor, a WASM/OpenCV video to audio synth, or a Python markov-chain-based image generator. I've also spent a lot of time coding [PureData](https://puredata.info/) patches. Unfortunately, many of these projects are old and now only live on some backup disk somewhere in the attic. Luckily at some point I started to use Git in my coding projects!  
 
