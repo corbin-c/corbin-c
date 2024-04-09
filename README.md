@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Clément
 
-I'm a self-taught web developer. After about 2 years as a Lead Dev in a web agency near Poitiers, France, I'm now working as a freelancer. Feel free to contact me. Apart from programming languages, I'm fluent in French, Spanish & English (and still learning Portuguese).
+I'm a self-taught web developer. After about 2 years as a Lead Dev in a web agency near Poitiers, France, I'm now working as a freelancer. Feel free to contact me. Apart from programming languages, I'm fluent in French, Spanish & English (and still learning Portuguese). I'm also the maker of [Pipelook](https://www.pipelook.app/), a tool to connect Pipedrive CRM to Outlook.
 
 [![@clem_corbin](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://www.twitter.com/clem_corbin)
 [![clement-corbin](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/clement-corbin/)
