@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Clément
 
-I'm a self-taught web developer. After about 2 years as a Lead Dev in a web agency near Poitiers, France, I'm now working as a freelancer. Feel free to contact me. Apart from programming languages, I'm fluent in French, Spanish & English (and still learning Portuguese). I'm also the maker of [Pipelook](https://www.pipelook.app/), a tool to connect Pipedrive CRM to Outlook.
+I'm a self-taught web developer. After about 2 years as a Lead Dev in a web agency near Poitiers, France, I'm now working as a freelancer. Feel free to contact me. Apart from programming languages, I'm fluent in French, Spanish & English (and still learning Portuguese).
 
 [![@clem_corbin](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://www.twitter.com/clem_corbin)
 [![clement-corbin](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/clement-corbin/)
@@ -41,3 +41,17 @@ Here are a few things you can find in my public repos, which mainly have 2 focus
     * [Polysynth.js](https://github.com/corbin-c/polySynth.js): yet another webaudio api experiment
     * [Movie Picker](https://github.com/corbin-c/movie-picker): a simple "movie picker" web app, based on IMDB data, deployed on Heroku.
     * [Jukeberry](https://github.com/corbin-c/jukeberry): using a Raspberry Pi as a Media center, remotely controlled by a web app.
+ 
+#### My apps
+
+Now, I focus on building web apps. Here are a few ones I've made:
+
+ * [Pipelook: Integrate Pipedrive and Outlook](https://www.pipelook.app)
+ * [Dialdrive: Phone calls integration for Pipedrive](https://www.dialdrive.app)
+ * [Unique Coupons: Boost your customer loyalty](https://unique-coupons.nibroc.fr)
+ * [Export your Spotify playlists in one click](https://www.playlist-exporter.com)
+ * [CSV Importer for WordPress](https://www.csv-to-wordpress.com)
+ * Suite of free tools for freelancers & agencies:
+     * [Time tracker](https://www.client-lounge.com/time-tracker)
+     * [Kanban board](https://www.client-lounge.com/free-kanban)
+     * [Customisable client onboarding checklist](https://www.client-lounge.com/client-onboarding-checklist)
