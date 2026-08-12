@@ -19,8 +19,6 @@ Some projects here are serious software projects; others are experiments, protot
 
 I'm particularly interested in projects where **the technology is part of the problem**, rather than just an implementation detail.
 
-You'll find things involving TypeScript, Python, data and knowledge graphs, computational geometry, visualization, generative systems, hardware, and plenty of small experiments.
-
 ### Currently
 
 I'm moving toward roles around **research engineering, prototyping, and creative technology**, while continuing to build and experiment in public.
